@@ -2,7 +2,7 @@
 
 This project offers a comprehensive real-time analysis of Blinkit, a leading quick commerce platform, using Power BI. It focuses on visualizing and interpreting key data points to drive impactful business decisions.
 
-📊 Project Overview
+# 📊 Project Overview
 The dashboard provides real-time insights into:
 
 📦 Operational Efficiency – Track order fulfillment, delivery time, and inventory status.
@@ -11,7 +11,7 @@ The dashboard provides real-time insights into:
 
 📈 Key Performance Metrics – Monitor revenue trends, conversion rates, and top-performing categories.
 
-🔍 Features
+# 🔍 Features
 Dynamic Dashboards with real-time refresh capability
 
 Interactive Visualizations that enhance data exploration and understanding
@@ -20,7 +20,7 @@ Data-driven Decision Support for marketing, operations, and customer experience 
 
 User-friendly Interface for stakeholders at all levels
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 Power BI (DAX, Power Query)
 
 Real-time data integration (via APIs / mock datasets)
