@@ -1,5 +1,5 @@
 # Real-time-Blinkit-Analysis
-#Real-time Blinkit Analysis 
+
 This project offers a comprehensive real-time analysis of Blinkit, a leading quick commerce platform, using Power BI. It focuses on visualizing and interpreting key data points to drive impactful business decisions.
 
 📊 Project Overview
